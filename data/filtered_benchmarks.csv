@@ -1,0 +1,8 @@
+Model,Context Window,Provider,Intelligence Index,TPS,Speed(median token/s),Latency
+Gemini 3 Pro Preview (high),1m,Google,48,,128,32.19
+Gemini 3 Flash,1m,Google,46,,224,11.62
+Gemini 3 Pro Preview (low),1m,Google,41,,133,4.04
+Gemini 3 Flash,1m,Google,35,,196,0.74
+Gemini 2.5 Pro,1m,Google,34,,160,32.99
+Gemini 2.5 Flash-Lite (Sep),1m,Google,22,,550,4.22
+Gemini 2.5 Flash-Lite (Sep),1m,Google,20,,429,0.33
